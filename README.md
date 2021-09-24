@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NCP091105
-- 👀 I’m interested in Instagaram: @ncp_091105 \ Discord: Naufal CP#5982 \ Facebook: Naufal Cristian Petrus
+- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning HTML & CSS <still just learning>
 
 
